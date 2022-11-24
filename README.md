@@ -22,3 +22,7 @@ Implement theSum of the Subset problem using the Backtracking approach and demon
 ## Example 2
 
 ![2](https://github.com/shradham2612/Sumof-Subset-Backtracking-/blob/main/example-2.jpeg)
+
+
+<sub>Shradha Mahajan</sub>
+<sub>A-22</sub>
