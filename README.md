@@ -14,4 +14,11 @@ Implement theSum of the Subset problem using the Backtracking approach and demon
 ###### step 5 : If the current sum equals to the max sum required, print the subset
 
 
-<sub>Test cases in png files</sub>
+<sub>output for test cases in jpg files</sub>
+# Example 1
+
+![1](https://github.com/shradham2612/Sumof-Subset-Backtracking-/blob/main/example-1.jpeg)
+
+## Example 2
+
+![2](https://github.com/shradham2612/Sumof-Subset-Backtracking-/blob/main/example-2.jpeg)
